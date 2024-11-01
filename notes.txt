@@ -1,0 +1,10 @@
+//put - modify using map
+//delete - using filter
+//single get using find
+
+
+0Bma1tpe7x5WBP5p
+
+
+ubed - 6723c71f0b38d1dd3b15d2e7
+kabir - 6723c7a90b38d1dd3b15d2e9
